@@ -1,5 +1,7 @@
 # covid-tracker
 
+This was created form a Traversy Media tutorial
+
 ## Project setup
 ```
 npm install
