@@ -1,6 +1,6 @@
 # covid-tracker
 
-This was created form a Traversy Media tutorial
+This was created from a Traversy Media tutorial
 
 ## Project setup
 ```
